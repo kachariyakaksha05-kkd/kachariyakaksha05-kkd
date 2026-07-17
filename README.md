@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
 </p>
 
-<h3 align="center">💻 MSc IT Student | C/C++ Developer | DBMS Learner | Mehndi Artist 🎨</h3>
+<h3 align="center">💻 MSc IT Student | C ,DBMS(MYSQl)Developer |  OOP Learner | Mehndi Artist 🎨</h3>
 
 ---
 
@@ -31,7 +31,7 @@
 - 💻 C & C++ Projects
 - 🗄️ Database Management System (DBMS)
 - 🌐 Web Development Basics
-- 🎨 Mehndi Design Portfolio
+- 🎨 Mehndi Design 
 
 ---
 
