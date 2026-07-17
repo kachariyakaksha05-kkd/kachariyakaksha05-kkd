@@ -51,10 +51,7 @@
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
 
----
 
 <p align="center">
 ⭐ Thanks for visiting my profile! Have a great day! ⭐
