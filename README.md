@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Kaksha Kachariya
 
-<!--
-**kachariyakaksha05-kkd/kachariyakaksha05-kkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF"/>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">💻 MSc IT Student | C/C++ Developer | DBMS Learner | Mehndi Artist 🎨</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 MSc Information Technology Student
+- 💻 Passionate about C, C++, DBMS & MySQL
+- 🌱 Currently learning Git & GitHub
+- 🎨 Creative Mehndi Designer
+- 🚀 Always learning new technologies
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 💼 What I'm Working On
+
+- 💻 C & C++ Projects
+- 🗄️ Database Management System (DBMS)
+- 🌐 Web Development Basics
+- 🎨 Mehndi Design Portfolio
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/YOUR_GITHUB_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! Have a great day! ⭐
+</p>
